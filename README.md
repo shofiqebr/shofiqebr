@@ -33,6 +33,7 @@ I'm currently a **teacher**<br>-I'm trying to involve myself in **web developmen
       - client site : [https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-shofiqebr.git](https://github.com/shofiqebr/brand-shop-client.git)https://github.com/shofiqebr/brand-shop-client.git<br>
 
 # Technologieas I use :
+I naturally use the bellow technologies. most of my projects are made by these technologies
       -html5
       -css3
       -javascript
