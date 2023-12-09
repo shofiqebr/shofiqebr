@@ -1,5 +1,4 @@
-https://i.ibb.co/1QPfsGW/dna-3539309-1280.webp
-![The San Juan Mountains are beautiful!](/assets/images/[san-juan-mountains.jpg "San Juan Mountains](https://i.ibb.co/1QPfsGW/dna-3539309-1280.webp)")
+![skills-3371153_1280](https://github.com/shofiqebr/shofiqebr/assets/138476079/1234ea15-1c5e-4c89-8111-8c57c073e14a)
 
 
 
