@@ -1,5 +1,5 @@
 https://i.ibb.co/1QPfsGW/dna-3539309-1280.webp
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](/assets/images/[san-juan-mountains.jpg "San Juan Mountains](https://i.ibb.co/1QPfsGW/dna-3539309-1280.webp)")
 
 
 
