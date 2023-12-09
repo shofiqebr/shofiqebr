@@ -43,8 +43,7 @@ I naturally use the bellow technologies. most of my projects are made by these t
       -node.js(initial)
       -next.js(next misssion)
 
-# used tecnologies:
-[![My Skills](https://skillicons.dev/icons?i=jhtml,css,js,react,express,firebase,mongodb,vite,vscode)](https://skillicons.dev)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shofiqebr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
