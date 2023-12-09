@@ -43,7 +43,7 @@ I'm currently a **teacher**<br>-I'm trying to involve myself in **web developmen
       -next.js(next misssion)
 
 # used tecnologies:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jhtml,css,js,react,express,firebase,mongodb,vite,vscode)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shofiqebr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
