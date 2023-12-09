@@ -1,5 +1,5 @@
 # 💫 About Me:
- -I'm currently a teacher<br>-I'm trying to involve myself in web development sector<br>-I'm now learning Next.js<br>-I have a moderate knowledge about creating web sites
+I'm currently a **teacher**<br>-I'm trying to involve myself in **web development** sector<br>-I'm now learning **Next.js**<br>-I have a moderate knowledge about creating web sites
 
 
 ## 🌐 Socials:
