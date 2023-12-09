@@ -1,7 +1,5 @@
 ![skills-3371153_1280](https://github.com/shofiqebr/shofiqebr/assets/138476079/1234ea15-1c5e-4c89-8111-8c57c073e14a)
 
-
-
 # 💫 About Me:
 I'm currently a **teacher**<br>-I'm trying to involve myself in **web development** sector<br>-I'm now learning **Next.js**<br>-I have a moderate knowledge about creating web sites
 
@@ -30,7 +28,15 @@ I'm currently a **teacher**<br>-I'm trying to involve myself in **web developmen
       - server site : [https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-shofiqebr.git](https://github.com/shofiqebr/brand-shop-server.git)<br>
       - client site : [https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-shofiqebr.git](https://github.com/shofiqebr/brand-shop-client.git)https://github.com/shofiqebr/brand-shop-client.git<br>
 
-
+# Technologieas:
+      -html5
+      -css3
+      -javascript
+      -react.js
+      -mongodb(initial)
+      -express.js(initial)
+      -node.js(initial)
+      -next.js(next misssion)
 
 
 
