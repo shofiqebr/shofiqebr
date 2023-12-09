@@ -11,20 +11,20 @@
 #Pojects:
 
 ##tourist guide:<br>
-    - Live Site Link: https://tourist-guide-client-43eb6.web.app
-    - Client Side Github Repository Link:[ https://github.com/programming-hero-web-course1/b8a12-client-side-shofiqebr.git](https://github.com/shofiqebr/tourist-guide-client.git)
-    - Server Side Github Repository Link: [https://github.com/programming-hero-web-course1/b8a12-server-side-shofiqebr.git](https://github.com/shofiqebr/tourist-guide-server.git)https://github.com/shofiqebr/tourist-guide-server.git
+    - Live Site Link: https://tourist-guide-client-43eb6.web.app<br>
+    - Client Side Github Repository Link:[ https://github.com/programming-hero-web-course1/b8a12-client-side-shofiqebr.git](https://github.com/shofiqebr/tourist-guide-client.git)<br>
+    - Server Side Github Repository Link: [https://github.com/programming-hero-web-course1/b8a12-server-side-shofiqebr.git](https://github.com/shofiqebr/tourist-guide-server.git)https://github.com/shofiqebr/tourist-guide-server.git<br>
 
-##carpooling:
-      - live link : https://carpooling-ride-sharing-client.web.app
-      - client side code: [https://github.com/Porgramming-Hero-web-course/b8a11-client-side-shofiqebr.git](https://github.com/shofiqebr/carpooling-client.git)
-      - server side code:[https://github.com/Porgramming-Hero-web-course/b8a11-server-side-shofiqebr.git](https://github.com/shofiqebr/carpooling-server.git)https://github.com/shofiqebr/carpooling-server.git
+##carpooling:<br>
+      - live link : https://carpooling-ride-sharing-client.web.app<br>
+      - client side code: [https://github.com/Porgramming-Hero-web-course/b8a11-client-side-shofiqebr.git](https://github.com/shofiqebr/carpooling-client.git)<br>
+      - server side code:[https://github.com/Porgramming-Hero-web-course/b8a11-server-side-shofiqebr.git](https://github.com/shofiqebr/carpooling-server.git)https://github.com/shofiqebr/carpooling-server.git<br>
 
 
-##brandshop:
-      - live link : https://automotive-brand-shop-client.web.app
-- server site : [https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-shofiqebr.git](https://github.com/shofiqebr/brand-shop-server.git)
-- client site : [https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-shofiqebr.git](https://github.com/shofiqebr/brand-shop-client.git)https://github.com/shofiqebr/brand-shop-client.git
+##brandshop:<br>
+      - live link : https://automotive-brand-shop-client.web.app<br>
+- server site : [https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-shofiqebr.git](https://github.com/shofiqebr/brand-shop-server.git)<br>
+- client site : [https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-shofiqebr.git](https://github.com/shofiqebr/brand-shop-client.git)https://github.com/shofiqebr/brand-shop-client.git<br>
 
 
 
