@@ -1,3 +1,8 @@
+https://i.ibb.co/1QPfsGW/dna-3539309-1280.webp
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+
+
+
 # 💫 About Me:
 I'm currently a **teacher**<br>-I'm trying to involve myself in **web development** sector<br>-I'm now learning **Next.js**<br>-I have a moderate knowledge about creating web sites
 
