@@ -32,7 +32,7 @@ I'm currently a **teacher**<br>-I'm trying to involve myself in **web developmen
       - server site : [https://github.com/programming-hero-web-course-4/b8a10-brandshop-server-side-shofiqebr.git](https://github.com/shofiqebr/brand-shop-server.git)<br>
       - client site : [https://github.com/programming-hero-web-course-4/b8a10-brandshop-client-side-shofiqebr.git](https://github.com/shofiqebr/brand-shop-client.git)https://github.com/shofiqebr/brand-shop-client.git<br>
 
-# Technologieas:
+# Technologieas I use :
       -html5
       -css3
       -javascript
@@ -42,7 +42,8 @@ I'm currently a **teacher**<br>-I'm trying to involve myself in **web developmen
       -node.js(initial)
       -next.js(next misssion)
 
-
+# used tecnologies:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shofiqebr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
