@@ -14,7 +14,7 @@ I am passionate about building meaningful digital experiences. My vision is to b
 ---
 
 ## 📬 Contact Me
-- 📧 Email: [shofiqebr@gmail.com](mailto:shofiq69303@gmail.com)  
+- 📧 Email: [shofiq69303@gmail.com](mailto:shofiq69303@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/shofiq303)  
 - 🌐 [Facebook](https://facebook.com/shofiqul.islam.5817)
 
