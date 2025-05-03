@@ -2,20 +2,20 @@
 <img src="https://github.com/shofiqebr/shofiqebr/assets/138476079/1234ea15-1c5e-4c89-8111-8c57c073e14a" alt="cover" style="width:100%;" />
 
 # 👨‍💼 Md. Shofiqul Islam
-**Educator | Aspiring Full-Stack Web Developer**
+**MERN-Stack Web Developer**
 
 📍 Based in Dhaka, Bangladesh
 
 ---
 
 ## 🧠 Vision
-As a lifelong learner and passionate educator, I'm transitioning into web development to combine my teaching expertise with real-world tech. My goal is to become a professional full-stack developer focused on creating efficient, user-friendly web applications using the MERN stack and modern tools like Next.js.
+I am passionate about building meaningful digital experiences. My vision is to become a highly skilled full-stack developer and contribute to impactful projects using modern technologies like the MERN stack and Next.js.
 
 ---
 
 ## 📬 Contact Me
-- 📧 Email: [shofiqebr@gmail.com](mailto:shofiqebr@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/shofiqebr)  
+- 📧 Email: [shofiqebr@gmail.com](mailto:shofiq69303@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shofiq303)  
 - 🌐 [Facebook](https://facebook.com/shofiqul.islam.5817)
 
 ---
@@ -23,7 +23,7 @@ As a lifelong learner and passionate educator, I'm transitioning into web develo
 ## 💼 What I Do
 - ✍️ Design and develop full-stack web apps using MERN Stack
 - 📦 REST API creation with Express and MongoDB
-- 💅 Build beautiful frontends using React, TailwindCSS, and Next.js (learning)
+- 💅 Build beautiful frontends using React, TailwindCSS, and Next.js 
 - 🚀 Deploy projects using Firebase & Vercel
 
 ---
@@ -45,25 +45,26 @@ As a lifelong learner and passionate educator, I'm transitioning into web develo
 
 ## 📌 Pinned Projects
 
+### 🔗 [RentalHub](https://rentalhub-client.vercel.app)
+- A rental platform where tenants can request houses and landlords can approve, reject, and share contact info upon approval.
+- ✅ Role-Based Dashboards | JWT Auth | MongoDB | Cloudinary | Redux Toolkit
+- [Client Code](https://github.com/shofiqebr/rentalhub-client)
+- [Server Code](https://github.com/shofiqebr/rentalhub-server)
+
+### 🔗 [BikeStore](https://bike-store-client.vercel.app)
+- An e-commerce web app for buying and selling branded bikes.
+- ✅ User Auth | Product Listings | Admin Panel | Payment System
+- [Client Code](https://github.com/shofiqebr/bike-store-client)
+- [Server Code](https://github.com/shofiqebr/bike-store-server)
+
 ### 🔗 [Tourist Guide](https://tourist-guide-client-43eb6.web.app)
 - A full-stack app that helps users explore tourist destinations.
 - ✅ Firebase Auth | CRUD with Express & MongoDB | Responsive UI
 - [Client Code](https://github.com/shofiqebr/tourist-guide-client)
 - [Server Code](https://github.com/shofiqebr/tourist-guide-server)
 
-### 🔗 [Carpooling](https://carpooling-ride-sharing-client.web.app)
-- A ride-sharing platform built for commuters.
-- ✅ Role-based Auth | Ride Requests | Firebase Hosting
-- [Client Code](https://github.com/shofiqebr/carpooling-client)
-- [Server Code](https://github.com/shofiqebr/carpooling-server)
 
-### 🔗 [BrandShop](https://automotive-brand-shop-client.web.app)
-- E-commerce platform for branded automotive products.
-- ✅ User Login | Product Management | Order System
-- [Client Code](https://github.com/shofiqebr/brand-shop-client)
-- [Server Code](https://github.com/shofiqebr/brand-shop-server)
 
-📄 Each project includes a dedicated README with features, tech stack, and instructions.
 
 ---
 
