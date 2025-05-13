@@ -1,5 +1,6 @@
 <img src="https://res.cloudinary.com/dal1rjdwl/image/upload/v1747109477/cover_ylebxk.png" alt="cover" />
-# 💫 About Me:
+
+## 💫 About Me:
 I'm currently working in Ionic <br>corporation for 1 year . i am looking to collaborate with a creative team. <br>Recently i am aiming to learn backened tech like postgresql, prisma and others. Actually it is becomming really enjoyable for me.
 
 
