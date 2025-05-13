@@ -1,5 +1,6 @@
 <!-- Banner Image -->
-<img src="https://github.com/shofiqebr/shofiqebr/assets/138476079/1234ea15-1c5e-4c89-8111-8c57c073e14a" alt="cover" style="width:100%;" />
+<!-- <img src="https://github.com/shofiqebr/shofiqebr/assets/138476079/1234ea15-1c5e-4c89-8111-8c57c073e14a" alt="cover" style="width:100%;" /> -->
+<img src="assets/cover.jpg" alt="cover" style="width:100%;" />
 
 # 👨‍💼 Md. Shofiqul Islam
 **MERN-Stack Web Developer**
