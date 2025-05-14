@@ -1,7 +1,21 @@
 <img src="https://res.cloudinary.com/dal1rjdwl/image/upload/v1747109477/cover_ylebxk.png" alt="cover" />
 
-## 💫 About Me:
-I'm currently working in Ionic <br>corporation for 1 year . i am looking to collaborate with a creative team. <br>Recently i am aiming to learn backened tech like postgresql, prisma and others. Actually it is becomming really enjoyable for me.
+## 💫 About Me
+Hi there! I'm Md. Shofiqul Islam, a dedicated MERN Stack Developer currently working at Ionic Corporation for the past year. While I mainly work with React.js on the frontend, I'm deeply focused on mastering the full MERN stack and becoming a well-rounded developer.
+
+Recently, I’ve been enjoying learning backend technologies like PostgreSQL, Prisma, and building scalable APIs. Exploring databases, writing clean backend logic, and connecting everything smoothly with frontend interfaces has become a fun challenge for me.
+
+💡 My goal is to build clean, scalable, and user-focused web applications using the MERN stack and beyond.
+
+
+🤝 Looking to Collaborate On
+MERN-based full stack projects
+
+Real-world applications with scalable architecture
+
+Creative teams focused on building quality software
+
+
 
 
 ## 🌐 Socials:
